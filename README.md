@@ -1,3 +1,18 @@
+# Twitter Sentiment Analysis
+
+This project analyzes the sentiment of tweets to classify them as positive or negative.  
+Using Natural Language Processing techniques and machine learning, the project explores tweet data, cleans and visualizes it, and builds a model to predict sentiment with about 75% accuracy.  
+The results can be used to better understand public opinion on social media and provide a foundation for further NLP applications.
+
+
+
+
+[Sentiment Distribution](sentiment_plot.png)
+
+
+
+
+
 # Twitter Sentiment Analysis Project
 
 ## Project Summary
